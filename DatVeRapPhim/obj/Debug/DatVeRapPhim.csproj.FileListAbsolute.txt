@@ -1,0 +1,11 @@
+D:\HOC TAP\C#v2\Winform\DatveRapPhim\DatVeRapPhim\DatVeRapPhim\bin\Debug\DatVeRapPhim.exe.config
+D:\HOC TAP\C#v2\Winform\DatveRapPhim\DatVeRapPhim\DatVeRapPhim\bin\Debug\DatVeRapPhim.exe
+D:\HOC TAP\C#v2\Winform\DatveRapPhim\DatVeRapPhim\DatVeRapPhim\bin\Debug\DatVeRapPhim.pdb
+D:\HOC TAP\C#v2\Winform\DatveRapPhim\DatVeRapPhim\DatVeRapPhim\obj\Debug\DatVeRapPhim.csproj.AssemblyReference.cache
+D:\HOC TAP\C#v2\Winform\DatveRapPhim\DatVeRapPhim\DatVeRapPhim\obj\Debug\DatVeRapPhim.Form1.resources
+D:\HOC TAP\C#v2\Winform\DatveRapPhim\DatVeRapPhim\DatVeRapPhim\obj\Debug\DatVeRapPhim.Properties.Resources.resources
+D:\HOC TAP\C#v2\Winform\DatveRapPhim\DatVeRapPhim\DatVeRapPhim\obj\Debug\DatVeRapPhim.csproj.GenerateResource.cache
+D:\HOC TAP\C#v2\Winform\DatveRapPhim\DatVeRapPhim\DatVeRapPhim\obj\Debug\DatVeRapPhim.csproj.CoreCompileInputs.cache
+D:\HOC TAP\C#v2\Winform\DatveRapPhim\DatVeRapPhim\DatVeRapPhim\obj\Debug\DatVeRapPhim.exe
+D:\HOC TAP\C#v2\Winform\DatveRapPhim\DatVeRapPhim\DatVeRapPhim\obj\Debug\DatVeRapPhim.pdb
+D:\HOC TAP\C#v2\Winform\DatveRapPhim\DatVeRapPhim\DatVeRapPhim\obj\Debug\DatVeRapPhim.FrmThongTinDatVe.resources
